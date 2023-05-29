@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damian Oribe</h1>
 <h3 align="center">A passionate full stack developer from Mexico</h3>
 
-- 🔭 I’m currently working on [sueñalucido](sueñalucido.com)
+- 🔭 I’m currently working on sueñalucido.com
 
 - 🌱 I’m currently learning **cloud computing, react native and mongo**
 
